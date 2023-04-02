@@ -7,6 +7,7 @@ Notes. is a web application that app focus on provide user-friendly and efficien
 ### Usage 
 
 Check out my app, let try and experience: <a href="https://anoteproject.glitch.me">here link</a>
+* Note: I used the free server sometimes some features not working
 
 ![Framework](https://user-images.githubusercontent.com/77260252/229301732-dc5aae98-1a92-4b2a-9db4-86e22df6a862.png)
 

@@ -25,11 +25,12 @@ Notes. includes some features to help user like
   + Add group 
   + Update group
   + Delete group
-  
+ 
   Manage member
   + Intive member to join the group
   + Search member
   + Kick member out to the group
+  + Leave out the group
   
   Manage note 
   + Add note 
